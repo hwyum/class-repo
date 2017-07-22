@@ -5,4 +5,4 @@
 * First item in list
 * Second item in list
 * Third item in list
-repo for open courser class 
+repo for open coursera class 
